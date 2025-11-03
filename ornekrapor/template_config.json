@@ -1,0 +1,70 @@
+﻿{
+  "palette": {
+    "primary": "#2E5C8A",
+    "accent": "#E8F1F8",
+    "neutral": "#F0F0F0",
+    "text": "#1A1A1A",
+    "border": "#000000",
+    "header": "#6D6D6D"
+  },
+  "page": {
+    "margins_cm": {
+      "left": 1.9,
+      "right": 1.9,
+      "top": 2.2,
+      "bottom": 2.0
+    },
+    "border": {
+      "enabled": true,
+      "line_width": 1.1,
+      "padding_cm": 0.8,
+      "color": "#000000",
+      "gap_cm": 0.18,
+      "inner_line_width": 0.6,
+      "inner_color": "#000000"
+    },
+    "header": {
+      "text": "Bu belge 5070 sayÄ±lÄ± Elektronik Ä°mza Kanunu Ã§erÃ§evesinde e-imza ile imzalanmÄ±ÅŸtÄ±r.",
+      "alignment": "center",
+      "color": "#6D6D6D",
+      "font_size": 8,
+      "masthead": {
+        "enabled": false,
+        "text": "AREA",
+        "subtitle": "GAYRÄ°MENKUL DEÄERLEME A.Å.",
+        "color": "#2E5C8A"
+      },
+      "offset_cm": 0.9
+    },
+    "footer": {
+      "company_text": "AREA Gayrimenkul DeÄŸerleme ve DanÄ±ÅŸmanlÄ±k A.Å.",
+      "color": "#6D6D6D",
+      "font_size": 8,
+      "page_number_font_size": 9,
+      "company_offset_cm": 1.0,
+      "page_number_offset_cm": 1.4,
+      "page_number_color": "#000000"
+    }
+  },
+  "kapak": {
+    "title_font_size": 20,
+    "subtitle_font_size": 18,
+    "info_font_size": 12,
+    "photo_border_color": "#000000",
+    "photo_border_width": 1.5,
+    "photo_padding_cm": 0.2,
+    "signature": {
+      "column_width_cm": 5.6,
+      "font_size": 8,
+      "show_e_stamp_placeholder": true
+    }
+  },
+  "tables": {
+    "header_background": "#F0F0F0",
+    "grid_color": "#B0B0B0",
+    "padding": {
+      "horizontal_cm": 0.3,
+      "vertical_cm": 0.3
+    }
+  }
+}

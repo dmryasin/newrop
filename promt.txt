@@ -1,0 +1,20 @@
+bir gayrimenkul değerleme şirketi için bir değerleme uzmanı gibi verilen belgeleri analiz edip bu belgerlerden
+çıkardığı verileri C:\Users\dmrya\Desktop\projectx\ornekrapor adresindeki örnek rapor gibi rapor üretebilen bir
+program yazmanı istiyorum. python kullan. rapor içinde bulunması gereken ögeler
+C:\Users\dmrya\Desktop\projectx\gereklilikler adresinde yer alıyor. program arayüzünde rapora ait olan dosyaları
+yüklemek için bir de emsalleri eklemek için bir alan olmalı. kullanıcı belge ve görselleri yüklediğinde bunları ai
+aralacılığı ile anlamlandırıp sınıflandırıp analiz edip gerekli verileri almalı ve örnek rapordaki gibi birebir bir
+rapor üretmeli. üretilecek rapor pdf formatında olmalı. şeklen içerik olarak format olarak birebir örnek rapor gibi
+olmalı. üretilecek raporda sadece yeni girilen veriler kullanılmalı. uydurma veriler yer almamalı. sadece uzman
+görüşü sorulduğu yerlerde program bir gayrimenkul değerleme uzmanı gibi o içeriği doldurmalı. buradaki amaç hızlı ve
+ doğru bir şekilde gayrimenkul değerleme raporu oluşturmak. tam donanımlı bir değerleme raporu hazırlayabilmeli. ai
+için sonnet 4.5 kullan. api
+[API_KEY_REMOVED - Lütfen .env dosyasından yükleyin]
+raporda türkçe karakter sorunu yaşanmasın. rapor üretirken mimari proje analizi yapılsın gayrimenkul kaç oda kaç
+salon gibi veriler üretilsin. gayrimenkulün m2 değeri proje okunaklı ise birebir ölçüler üzerinden hesap edilsin.
+proje okunaklı değilse m2 tablosundan bu veri alınsın. değer üretilirken emsallerin birim m2 değerleri ortalaması
+üzerinden mevcut gayrimenkulün değeri hesaplansın. rapor formatına dikkat edilsin. hücrelerden veri taşması olmasın
+ilgili konu başlıkları mümkün oldukça tek sayfada ve düzenli yer alsın. bir sayfada bir iki satır veri verip
+geçilmesin. tapu kaydı bilgileri şerh ve beyanklar bölümü takbis pdf dosyasından alınan veriler ile birebir ve
+eksiksiz doldurulsun mutlaka. özetle senden çok doğru ve detaylı bir çalışma istiyorum. sormak istediklerini sor
+sonrasında eksiksiz bir program üret.

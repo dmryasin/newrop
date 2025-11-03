@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Read(//c/Users/dmrya/Desktop/YENİPROJE/sonrop/**)",
+      "Bash(git checkout:*)",
+      "Read(//g/Diğer bilgisayarlar/Bilgisayarım/Desktop/örneeek/**)",
+      "Bash(git restore area_report_generator.py imar_analiz.py)",
+      "Bash(git restore area_report_generator.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
